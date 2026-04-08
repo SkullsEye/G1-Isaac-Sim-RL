@@ -2,6 +2,10 @@
 
 **Reinforcement Learning** training and simulation for the **Unitree G1 humanoid robot** using NVIDIA Isaac Sim and Isaac Lab. Includes custom training scripts, manipulation tasks, and a layered control architecture.
 
+<p align="center">
+  <img src="docs/images/debug_vision.png" width="600" alt="G1 Isaac Sim Debug Vision"/>
+</p>
+
 ## Features
 
 - RL policy training for G1 humanoid locomotion and manipulation
